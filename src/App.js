@@ -264,8 +264,8 @@ getFsquareData = (query)=>{
       //
           const endPoint="https://api.foursquare.com/v2/venues/explore?"
           const params= {
-              client_id: 'U1XAOJAI5ORXPXF3REIC4GCEV2EPWEPISPDE1QTSXELDDO2Y', //'UCBUBFADHBK55015FZAGFQQVQRIVKVZ21HYB3YZF2EYUZ40M',
-              client_secret: '20DSJ5WH1541JLEJ0SVBIXXIXOQZSGQXQUYWLMUXG4XPUZYO', //'1DSFNBLOZ2ZSLAFWB00HBZ014PIERWNBRLL3L2UC1XTH2BZN',
+              client_id: '0101010101exemplo', //'UCBUB0FADHBK55015FZAGFQQVQRIVKVZ21HYB3YZF2EYUZ40M',
+              client_secret: '0101010101exemplo', //'1DSFN0BLOZ2ZSLAFWB00HBZ014PIERWNBRLL3L2UC1XTH2BZN',
               ll: '-33.69111,-72.89583',
               query: query,
               near: `${query},BR`,
