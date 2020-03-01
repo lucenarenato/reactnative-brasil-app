@@ -1,7 +1,7 @@
 # Brasil App
 Brasil é aplicativo usado para obter dados atualizados sobre os melhores lugares para encontrar comida deliciosa enquanto visita o Brasil.
 
-![tela](Screenshot from 2020-03-01 14-37-59.png) 
+![tela](tela.png) 
 ## Table of Contents
 
 * [Getting Started](#Getting Started)
