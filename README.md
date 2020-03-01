@@ -2,6 +2,8 @@
 Brasil é aplicativo usado para obter dados atualizados sobre os melhores lugares para encontrar comida deliciosa enquanto visita o Brasil.
 
 ![tela](tela.png) 
+![tela1](tela1.png) 
+![tela2](tela2.png) 
 ## Table of Contents
 
 * [Getting Started](#Getting Started)
