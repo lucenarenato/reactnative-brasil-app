@@ -1,5 +1,7 @@
 # Brasil App
 Brasil é aplicativo usado para obter dados atualizados sobre os melhores lugares para encontrar comida deliciosa enquanto visita o Brasil.
+
+![tela](Screenshot from 2020-03-01 14-37-59.png) 
 ## Table of Contents
 
 * [Getting Started](#Getting Started)
@@ -14,7 +16,7 @@ Brasil é aplicativo usado para obter dados atualizados sobre os melhores lugare
 
 *   This project is using react native for web, Google maps API and Foursquare API.
 
-*   For developers: you can find the project as a Github repository [here.](https://github.com/uodeeb/Egyptourism-app/)
+*   For developers: you can find the project as a Github repository [here.](https://github.com/lucenarenato/reactnative-brasil-app)
 
 * To run this project you need:
     - [Git](https://git-scm.com/downloads)
@@ -126,7 +128,8 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Authors
 
-*   This project is developed by [Mohammad Allam](https://www.linkedin.com/in/mohammadallammemix/)
+*   This project is developed by [Renato Lucena](https://www.linkedin.com/in/renato-de-oliveira-lucena-33777133/)
+* https://www.renatolucena.net/
 
 ## Acknowledgments
 
