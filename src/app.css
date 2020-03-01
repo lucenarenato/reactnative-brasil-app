@@ -1,0 +1,75 @@
+:focus{
+    outline: #0080ff solid 2px;
+   box-shadow: 0 0 8px 3px rgba(158, 157, 177, 0.8)
+   }
+.location-list{
+    border-radius: 10px;
+    font-size: 2 em;
+    line-height: 1.5 rem;
+    width: 100px;
+}
+.clicked-place {
+color: aqua;
+} 
+.unclicked-place{
+    color: #fff;
+}
+/*menu_____________*/
+.outdoor-place-hide{
+    
+    overflow: hidden;
+    height: 0;
+}
+.outdoor-place{
+    
+    overflow: hidden;
+    height: 0;
+}
+.clicked-place {
+    color: #f8f3da;
+    font-size: 0.7em;
+    line-height: 1.5em;
+
+} 
+.unclicked-place{
+    color: #fff;
+}
+.menu-bar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+/*_______________________small mobs_________________________*/
+@media screen and (min-width: 320px){
+.head{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5em;
+    }
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    }
+
+}
+/*_______________________desktops and labs_________________________*/
+@media screen and (min-width: 800px){
+.head p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.8em;
+    
+    }
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    }
+.menu{
+    font-size: 3rem;
+    }
+
+.footer{
+font-size: 2em;
+    }
+}

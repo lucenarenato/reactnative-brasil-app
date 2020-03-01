@@ -1,0 +1,30 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "autoresponsive-react-native": "^1.0.9",
+    "axios": "^0.18.0",
+    "escape-string-regexp": "^1.0.5",
+    "google-maps-react": "2.0.2",
+    "prop-types": "^15.6.2",
+    "react": "16.4.0",
+    "react-art": "16.4.0",
+    "react-dom": "16.4.0",
+    "react-native-geocoding": "^0.3.0",
+    "react-native-web": "0.8.x",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "sort-by": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
