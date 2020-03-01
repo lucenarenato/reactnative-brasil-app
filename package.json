@@ -12,7 +12,7 @@
     "prop-types": "^15.6.2",
     "react": "16.4.0",
     "react-art": "16.4.0",
-    "react-dom": "16.4.0",
+    "react-dom": "16.4.2",
     "react-native-geocoding": "^0.3.0",
     "react-native-web": "0.8.x",
     "react-router": "^4.3.1",
